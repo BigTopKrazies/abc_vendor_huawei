@@ -16,5 +16,5 @@
 
 <permissions>
     <library name="com.google.android.camera.experimental2016"
-            file="/system/framework/com.google.android.camera.experimental2016.jar" />
+            file="/system/framework/com.google.android.camera.experimental2017.jar" />
 </permissions>
