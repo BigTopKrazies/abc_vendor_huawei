@@ -16,6 +16,7 @@ $(call inherit-product, vendor/huawei/angler/angler-vendor-blobs.mk)
 
 # Prebuilt APKs
 PRODUCT_PACKAGES += \
+    CameraNX \
     HwMMITest \
     HwSarControlService \
     ims \
